@@ -1,4 +1,4 @@
-![image](https://github.com/sml99/CC-Project-BackIt/assets/29798184/e1eef1e0-1688-40b7-a240-c11b1011d9a4)
+![logo](https://github.com/sml99/CC-Project-BackIt/assets/29798184/a3be8623-b946-4986-8555-db14beee6634)
 
 # Backit
 
