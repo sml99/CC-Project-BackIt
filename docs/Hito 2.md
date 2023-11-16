@@ -4,7 +4,7 @@
 
 In this hito, I have implemented testing strategies for the project, focusing on task runners, creating test objects, and executing tests. The selected tools are **Yarn** as the task runner and **Jest** as the assertion library and test framework. This submission provides insights into the rationale behind these choices, along with relevant screenshots.
 
-## Task 1: Task Runners or Task Managers
+## Task 1: Task Runners
 
 ### Description
 For this project, I have chosen **Yarn** as the task runner to execute tests.
