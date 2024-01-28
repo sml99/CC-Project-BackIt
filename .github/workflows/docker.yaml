@@ -1,9 +1,7 @@
 name: Docker
 
-on:
-  push:
-    paths:
-      - 'app/backend/**'
+on: push
+   
 
 
 jobs:
