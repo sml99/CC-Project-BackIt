@@ -1,0 +1,49 @@
+[
+  {
+    "fullName": "Jhon doe",
+    "email": "test@example.com",
+    "password": "$2a$10$tgCS5Oa/AHBNpiv7nfDjTuJOjG.Rtoey5OTrfO2uBcFvcJGrCpT7O"
+  },
+  {
+    "fullName": "Jane doe",
+    "email": "test@gmail.com",
+    "password": "$2a$10$/1ad6QulG.QUAeYStu3vruXJO.5RiLzOZRpTRmnV.ggYj5.heUJV."
+  },
+  {
+    "fullName": "Luke the man",
+    "email": "test1@gmail.com",
+    "password": "$2a$10$pbo7CaHgqo6Mqp5XuItQY.8TiF2qOjDRfp5SiYHItX58xvE5eIYX."
+  },
+  {
+    "fullName": "Jhon dick",
+    "email": "test2@gmail.com",
+    "password": "$2a$10$GgT4RkWmkXf26836awq4ReQZ5efdEL0ZGIe7R8JUx9JWd.sZCb2te"
+  },
+  {
+    "fullName": "Jhon dick",
+    "email": "test3@gmail.com",
+    "password": "$2a$10$d3wI9gfTwpmOpIAaZCKu6uXi2aAk8O/uqpaZebMP12TAY18FYA3GW"
+  },
+  {
+    "fullName": "Jhon dick",
+    "email": "test4@gmail.com",
+    "password": "$2a$10$bdA3ds.6K/glkf5Tgcki0etRkkvPqM9wnG1akyWRkZjn7S7IqiaDi"
+  },
+  {
+    "fullName": "Don sick",
+    "email": "test5@gmail.com",
+    "password": "$2a$10$CYA0lP3XGNwbMQzVIplW5.cl7oLjIWWuDkenMcc0ef46is4DDSOPK"
+  },
+  {
+    "fullName": "John Done",
+    "email": "john.doe1@example.com",
+    "password": "$2a$10$Y8A4wKUju7vDylguGwuNIO0gSjWMDJ.hSRWHX5F49nNZO50vnDPPG",
+    "profilePicture": "https://example.com/profile.jpg",
+    "bio": "Software developer with over 5 years of experience.",
+    "socialMediaLinks": {
+      "github": "https://github.com/johndoe",
+      "linkedin": "https://linkedin.com/in/johndoe",
+      "twitter": "https://twitter.com/johndoe"
+    }
+  }
+]
