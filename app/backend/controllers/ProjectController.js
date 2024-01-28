@@ -1,11 +1,8 @@
 const Project = require('../models/project');
 
 exports.getAllProjects = async (req, res) => {
-  console.log('🚀 ~ Project:', Project);
   try {
-    console.log('🚀 ~ exports.getAllProjects= ~ req:', req);
     const projects = await Project.find();
-    console.log('🚀 ~ exports.getAllProjects= ~ projects:', projects);
 
     res.status(200).json({
       status: 'success',
@@ -15,7 +12,6 @@ exports.getAllProjects = async (req, res) => {
       }
     });
   } catch (e) {
-    console.log('🚀 ~ exports.getAllProjects= ~ e:', e);
     res.status(400).json({
       status: 'fail'
     });
@@ -32,7 +28,6 @@ exports.getProject = async (req, res) => {
       }
     });
   } catch (e) {
-    console.log('🚀 ~ exports.getProject= ~ e:', e);
     res.status(400).json({
       status: 'fail'
     });
@@ -49,7 +44,6 @@ exports.createProject = async (req, res) => {
       }
     });
   } catch (e) {
-    console.log('🚀 ~ exports.createProject= ~ e:', e);
     res.status(400).json({
       status: 'fail',
       message: e.message
@@ -70,7 +64,6 @@ exports.updateProject = async (req, res) => {
       }
     });
   } catch (e) {
-    console.log('🚀 ~ exports.updateProject= ~ e:', e);
     res.status(400).json({
       status: 'fail'
     });
@@ -85,7 +78,6 @@ exports.deleteProject = async (req, res) => {
       data: null
     });
   } catch (e) {
-    console.log('🚀 ~ exports.deleteProject ~ e:', e);
     res.status(400).json({
       status: 'fail'
     });
