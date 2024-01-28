@@ -21,3 +21,5 @@ const commentSchema = new mongoose.Schema({
         required: [true, 'Please enter a user']
     }
 });
+
+module.exports = mongoose.model('Comment', commentSchema);
