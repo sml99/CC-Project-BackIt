@@ -9,8 +9,15 @@
 - The official Node.js image is a well-established and trusted base for Node.js applications.
 - The slim variant ensures a minimal and efficient image size, suitable for testing purposes.
 
-## Dockerfile Quality
+## Dockerfile 
+### Dockerfile
 ![dockerfile](https://github.com/sml99/CC-Project-BackIt/assets/29798184/cbb9bda1-107d-40c5-949e-828bc51d7f2f)
+### docker-compose.yaml
+![doccodev](https://github.com/sml99/CC-Project-BackIt/assets/29798184/656ec71e-6947-4632-a8c9-eabb5419f09d)
+### docker-compose.dev.yaml
+![doccom](https://github.com/sml99/CC-Project-BackIt/assets/29798184/d1cbf3c6-951d-4e74-ad40-83d3c223f30a)
+### build & run
+![image](https://github.com/sml99/CC-Project-BackIt/assets/29798184/602c937e-7561-43f3-9f75-7afaa37f4fed)
 
 ## Container Upload to Docker Hub
 ![workflow](https://github.com/sml99/CC-Project-BackIt/assets/29798184/271bab2a-8b99-4e8c-8071-442f8c815c17)
