@@ -6,15 +6,15 @@ Where Hope Finds a Way, BackIt Leads the Day
 
 Backit is a crowdfunding platform that empowers creators to bring their projects to life with the support of backers. Backers can discover and fund a variety of innovative ventures, while creators can seek funding to turn their ideas into reality.
 
-## Features
+## Hitos
 
-- **User Authentication**: Secure user registration and login functionality.
-- **Project Creation**: Creators can create projects with essential details.
-- **Project Discovery**: Browse and discover live projects by category.
-- **Contribution Mechanism**: Backers can contribute to projects.
-- **Funding Progress**: Display project funding progress.
-- **Project Updates**: Allow creators to post text updates to their project pages.
-- **User Profiles**: Basic user profiles showcasing user activity.
-- **Notifications**: Email notifications for project funding and contributions.
-- **Moderation**: Report content and basic moderation.
-- **Admin Panel**: Manage user accounts, reported content, and analytics.
+
+Los hitos para la realización del proyecto son los siguientes:
+
+* [Hito 0: Descripción del problema a resolver usando correctamente git y GitHub](docs/Hito%200.md). 
+* [Hito 1: Concretando y planificando el proyecto](docs/Hito%201.md). 
+* [Hito 2: Tests](docs/Hito%202.md).
+* [Hito 3: Creación de un contenedor para pruebas](docs/Hito%203.md)). 
+* [Hito 4: Integración continua](docs/Hito%204.md). 
+* [Hito 5: Diseño y test de un microservicio](docs/Hito%205.md). 
+* [Hito 6: Composición de servicios](docs/Hito%206.md). 
