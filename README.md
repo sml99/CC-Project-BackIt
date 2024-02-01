@@ -8,9 +8,6 @@ Backit is a crowdfunding platform that empowers creators to bring their projects
 
 ## Hitos
 
-
-Los hitos para la realización del proyecto son los siguientes:
-
 * [Hito 0: Descripción del problema a resolver usando correctamente git y GitHub](docs/Hito%200.md). 
 * [Hito 1: Concretando y planificando el proyecto](docs/Hito%201.md). 
 * [Hito 2: Tests](docs/Hito%202.md).
