@@ -20,8 +20,6 @@
 ![image](https://github.com/sml99/CC-Project-BackIt/assets/29798184/602c937e-7561-43f3-9f75-7afaa37f4fed)
 
 ## Container Upload to Docker Hub
-![workflow](https://github.com/sml99/CC-Project-BackIt/assets/29798184/271bab2a-8b99-4e8c-8071-442f8c815c17)
-
 - The container is uploaded to Docker Hub at [sml99/backit](https://hub.docker.com/r/sml99/backit).
 - GitHub Actions workflow is configured for automatic builds and updates on Docker Hub.
 
