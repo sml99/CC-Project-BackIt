@@ -1,9 +1,15 @@
 # Hito 4
 ## Project Integration Continua
-### 1. GitHub Actions
+## 1. GitHub Actions
+### Why GitHub Actions?
 
-- **Selection:** Chose GitHub Actions as the online code testing system.
-- **Configuration:** Configured GitHub Actions to run tests automatically on each Pull request & updating docker image on each merge in main branch.
+1. **Seamless Integration:** GitHub Actions offers native integration with our GitHub repository, streamlining setup and providing an intuitive workflow configuration.
+
+2. **Extensive Ecosystem:** With a diverse set of pre-built actions and workflows, GitHub Actions enables us to incorporate best practices and ensures scalability as our project evolves.
+
+3. **Cost-Effective and Community Support:** The platform's cost-effective approach for open-source projects, combined with strong community support, makes GitHub Actions an optimal choice for efficient and collaborative continuous integration.
+
+- **Configuration:** Configured GitHub Actions to run tests automatically on each Pull request before merging & updating docker image on each merge in main branch to keep docker image up to date on docker hub.
 
 #### A - Docker action config
 
